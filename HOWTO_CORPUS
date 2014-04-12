@@ -1,0 +1,8 @@
+1.- crear los ficheros con el comando descrito en scripts/twitter_fetcher.py
+	.- quitar RT
+	.- quitar @...
+	.- quitar links
+	.- añadir nolead + tab delante
+3.- cargar los ficheros en MySQL, sin separador, sin escape, en tabla de dos columnas, con indice único en texto
+4.- exportarlos a ods en Dropbox/corpus
+5.- compartirlos con los demás para poder trabajar
